@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Logo](/images/logo.png)
+![Image](未命名-1.gif)
 
 
 
