@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/SsuHanYu/SsuHanYu/blob/master/未命名-1.gif?raw=true)
+![GitHub Logo](/images/logo.png)
+
 
 
